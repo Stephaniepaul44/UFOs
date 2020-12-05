@@ -8,9 +8,13 @@ Results:
 The website is interactive and easy to use. Simply enter filter in the search criteria boxes on the left side of the page and press enter to see your results.
 
 Search Criteria:
+
+
 ![](static/images/Enter_Field.png)
 
 Search Results:
+
+
 ![](static/images/Results.png)
 
 
